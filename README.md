@@ -8,6 +8,7 @@ A specialized, high-performance information retrieval (IR) search engine built c
 
 ## 👥 Authors
 * **Mehedi Hasan** (ID: `0432220005101033`)
+* **Taposhi Rabia Fardin ** (ID: `0432220005101049`)
 * **Department:** Computer Science and Engineering (CSE), UITS
 
 ---
